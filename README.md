@@ -15,5 +15,6 @@ NOTES
 
 These classes are just POC code, they aren't "Production-Ready", as there is minimal error-handling and 
 the logging should be implemented in a much better way than "Console.Write"... For now, it's somewhere to get started.
+
 Enjoy.
 -Pat
