@@ -10,6 +10,19 @@ namespace MooresCloudDemos
     {
         static void Main(string[] args)
         {
+            var debug = args.Contains("-debug");
+
+            // First show the UV index
+            new DisplayUvIndex().ConvertUvIndexToLight(debug);
+
+            // Then show the Air Pollution rating
+            new DisplayAirPollution().ConvertAirPollutionToLight(debug);
+
+            if (Environment.UserInteractive)
+            {
+                Console.WriteLine("All operations complete. Please press [ENTER] to exit.");
+                Console.ReadLine();
+            }
         }
     }
 }
