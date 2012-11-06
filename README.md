@@ -6,8 +6,9 @@ C# ports of the MooresCloud Light examples that have been posted to their blog a
 Completed Demos
 ===============
 
-http://dev.moorescloud.com/2012/11/05/demo-display-the-uv-index/ - DisplayUvIndex.cs
-http://dev.moorescloud.com/2012/11/06/demo-display-the-air-pollution-level/ - DisplayAirPollution.cs
+1. http://dev.moorescloud.com/2012/11/05/demo-display-the-uv-index/ - DisplayUvIndex.cs
+
+2. http://dev.moorescloud.com/2012/11/06/demo-display-the-air-pollution-level/ - DisplayAirPollution.cs
 
 NOTES
 =====
